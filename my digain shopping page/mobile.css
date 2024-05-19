@@ -1,0 +1,26 @@
+@media (max-width: 500px){
+    .serch{
+        display: none;
+    }
+
+    .serch2{
+        display: block;
+    }
+
+    .catagoris{
+        left: -250px;
+    }
+
+    .banner{
+        width: 100%;
+        background-size: cover;
+        background-position: right;
+    }
+
+    #shopping-card-menu{
+        top: 9%;
+        left: 0;
+        height: 50vh;
+        display: none;
+    }
+}
