@@ -1,0 +1,28 @@
+*{
+    padding: 0;margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.left-logo{
+    cursor: pointer;
+}
+.logo{
+    color: #16f006;
+    font-size: 3rem;
+}
+
+.main-logo{
+    color: #807d7d;
+    font-size: 1.4rem;
+}
+
+
+/* form  */
+.form{
+    margin: 20px auto;
+    width: 300px;
+    height: 450px;
+    background-color: #9ad1f375;
+}

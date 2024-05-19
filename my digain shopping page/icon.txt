@@ -1,0 +1,8 @@
+<-- magnipy --> 
+<i class="fa-solid fa-magnifying-glass" id="top-seace"></i>
+
+<--user-->
+<i class="fa-solid fa-user"></i>
+
+<--shopping card-->
+ <i class="fa-solid fa-cart-shopping"></i>
